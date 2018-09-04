@@ -19,3 +19,5 @@ connection.connect(function(err){
 });
 
 // Export connection for our orm to use
+
+module.exports = connection;
