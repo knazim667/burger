@@ -5,3 +5,10 @@ body{
 h2 {
     color: red;
 }
+input{
+    height : 50px;
+    width: 200px;
+}
+submit{
+    margin: 10px;
+}
